@@ -1,0 +1,6 @@
+- [x] Register domain castle.chrismas
+- [x] Create GitHub repo
+- [ ] Set up GitHub to serve static site
+- [ ] Write short description
+- [ ] Add an animated GIF showing button and lights in action
+- [x] Add simple room and tree SVG art
