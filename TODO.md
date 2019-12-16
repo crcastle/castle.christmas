@@ -6,8 +6,8 @@
 - [x] Add simple room and tree SVG art
 - [ ] Add shadow under tree
 - [ ] Make tree lights brighter
-- [ ] Make tree lights stay on and turn off with tap
-- [ ] Raise up shelf with books
+- [x] Make tree lights stay on and turn off with tap
+- [x] Raise up shelf with books
 - [ ] Add presents under tree https://www.vecteezy.com/vector-art/132191-free-vector-christmas-tree
 - [ ] Add present with baby interaction https://vectorcharacters.net/child-vector-characters/vector-baby-cartoon-characters
 - [ ] Add present with squeaker / dog interaction https://vectorcharacters.net/avatars-2/dog-avatars-pack and https://vectorcharacters.net/animal-vector-characters/vector-dogs and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-4 and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-3
