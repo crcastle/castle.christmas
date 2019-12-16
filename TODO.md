@@ -17,6 +17,7 @@
 - [ ] Add dog interaction
 - [ ] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
 - [ ] Add sounds to interactions
+- [x] Add electricity sound when turning xmas tree lights off
 - [ ] Maybe add some musical instrument interactions? https://github.com/codrops/MusicalInteractions/
 
 
