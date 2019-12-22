@@ -2,9 +2,9 @@
 
 ## The button
 
-My 2 year old, Castle, likes pushing buttons—especially ones that turn lights on. When a Christmas tree appeared one year, and lights were put up, he was very excited. At the same time, I was experimenting with [Puck.js](https://www.puck-js.com), a programmable low power bluetooth button, and had a brainwave—I could combine my nephew's love of buttons and of lights. A true Christmas miracle.
+My 2 year old nephew, Castle, likes pushing buttons—especially ones that turn lights on. When a Christmas tree appeared one year, and lights were put up, he was very excited. At the same time, I was experimenting with [Puck.js](https://www.puck-js.com), a programmable low-power bluetooth button, and had a brainwave—I could combine my nephew's love of buttons and of lights. A true Christmas miracle.
 
-Armed with a Puck.js button and a bluetooth-powered power outlet, I decided to make the Christmas lights magic. I dug into the code, (sparse) documentation, and seemingly oft-ignored specifications, eventually reverse engineering the whole thing. The result was this:
+Armed with a Puck.js and a bluetooth-powered power outlet, I decided to make the Christmas lights magic. I dug into the code, Puck.js documentation, and seemingly oft-ignored specifications, eventually reverse engineering the whole thing. The result was this:
 
 [INSERT GIF OF CASTLE CLICKING BUTTON]
 

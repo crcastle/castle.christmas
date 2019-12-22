@@ -1,7 +1,7 @@
 - [x] Register domain castle.chrismas
 - [x] Create GitHub repo
 - [x] Set up GitHub to serve static site
-- [ ] Write short description
+- [x] Write short description
 - [ ] Add an animated GIF showing button and lights in action
 - [x] Add simple room and tree SVG art
 - [ ] Add shadow under tree
@@ -19,6 +19,9 @@
 - [ ] Add sounds to interactions
 - [x] Add electricity sound when turning xmas tree lights off
 - [ ] Maybe add some musical instrument interactions? https://github.com/codrops/MusicalInteractions/
+- [ ] Add white outline on clickable elements
+- [ ] Add screenshot of website to README
+- [ ] Add GIF of Castle clicking button to README and code[ish] show notes
 
 
 Notes:
