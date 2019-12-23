@@ -1,10 +1,10 @@
 
 - [ ] Add shadow under tree?
 - [ ] Make tree lights brighter?
-- [ ] Add present with squeaker / dog interaction https://vectorcharacters.net/avatars-2/dog-avatars-pack and https://vectorcharacters.net/animal-vector-characters/vector-dogs and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-4 and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-3
+- [x] Add present with squeaker / dog interaction https://vectorcharacters.net/avatars-2/dog-avatars-pack and https://vectorcharacters.net/animal-vector-characters/vector-dogs and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-4 and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-3
 - [ ] Add moon interaction
-- [ ] Add dog interaction
-- [ ] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
+- [x] Add dog interaction
+- [x] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
 - [ ] Maybe add some musical instrument interactions? https://github.com/codrops/MusicalInteractions/
 - [ ] Add screenshot of website to README
 - [ ] Add GIF of Castle clicking button to README and code[ish] show notes
