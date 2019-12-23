@@ -16,6 +16,10 @@ But that wasn't enough. I decided to build a site around it, showing how it work
 
 All so my nephew could press a button and see some magic happen.
 
+## Thanks
+
+Most of the vector graphics: <a href="https://www.vecteezy.com/"> Vectors by Vecteezy</a>
+
 ## License
 
 See [LICENSE](LICENSE)
