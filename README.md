@@ -6,7 +6,7 @@ My 2 year old nephew, Castle, likes pushing buttons—especially ones that turn 
 
 Armed with a Puck.js and a bluetooth-powered power outlet, I decided to make the Christmas lights magic. I dug into the code, Puck.js documentation, and seemingly oft-ignored specifications, eventually reverse engineering the whole thing. The result was this:
 
-[INSERT GIF OF CASTLE CLICKING BUTTON]
+![Screen recording of site](Screen recording.gif)
 
 ## The interactive instruction manual
 

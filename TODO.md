@@ -1,5 +1,4 @@
 - [ ] Maybe add some musical instrument interactions? https://github.com/codrops/MusicalInteractions/
-- [ ] Add screenshot of website to README
 - [ ] Add GIF of Castle clicking button to README and code[ish] show notes
 - [x] Add link to code
 - [x] Add link to podcast
@@ -20,6 +19,7 @@
 - [x] Add moon interaction
 - [x] Add dog interaction
 - [x] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
+- [x] Add screenshot of website to README
 
 
 Notes:
