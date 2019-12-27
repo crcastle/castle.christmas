@@ -1,15 +1,8 @@
-
-- [ ] Add shadow under tree?
-- [ ] Make tree lights brighter?
-- [x] Add present with squeaker / dog interaction https://vectorcharacters.net/avatars-2/dog-avatars-pack and https://vectorcharacters.net/animal-vector-characters/vector-dogs and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-4 and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-3
-- [ ] Add moon interaction
-- [x] Add dog interaction
-- [x] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
 - [ ] Maybe add some musical instrument interactions? https://github.com/codrops/MusicalInteractions/
 - [ ] Add screenshot of website to README
 - [ ] Add GIF of Castle clicking button to README and code[ish] show notes
-- [ ] Add link to code
-- [ ] Add link to podcast
+- [x] Add link to code
+- [x] Add link to podcast
 - [x] Add lamp interaction
 - [x] Make tree lights stay on and turn off with tap
 - [x] Raise up shelf with books
@@ -23,6 +16,10 @@
 - [x] Write short description
 - [x] Add simple room and tree SVG art
 - [x] Add presents under tree https://www.vecteezy.com/vector-art/132191-free-vector-christmas-tree
+- [x] Add present with squeaker / dog interaction https://vectorcharacters.net/avatars-2/dog-avatars-pack and https://vectorcharacters.net/animal-vector-characters/vector-dogs and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-4 and https://vectorcharacters.net/animal-vector-characters/vector-dogs-vol-3
+- [x] Add moon interaction
+- [x] Add dog interaction
+- [x] Add other cute animal interaction https://codecanyon.net/item/cute-animals-and-birds-svg-animation/15871273
 
 
 Notes:
